@@ -26,13 +26,12 @@
 
 OUTOUT : 
 
-![WhatsApp Image 2024-10-03 at 19 07 12_6a9eb065](https://github.com/user-attachments/assets/e5d6a070-3f2a-4ec2-bb8a-f479c2409148)
-![WhatsApp Image 2024-10-03 at 19 07 13_d4d43866](https://github.com/user-attachments/assets/71107fd6-8719-483a-93a0-f92c2307de15)
-![WhatsApp Image 2024-10-03 at 19 07 13_a07e61ef](https://github.com/user-attachments/assets/3475c4d3-940d-4ca7-930c-afa63b386783)
-![WhatsApp Image 2024-10-03 at 19 07 13_9143a635](https://github.com/user-attachments/assets/69a25e55-03d9-48a4-a630-82d7807228ca)
-![WhatsApp Image 2024-10-03 at 19 07 14_802d8fc2](https://github.com/user-attachments/assets/d1905ae9-563b-412e-9f96-43520c844da2)
-![WhatsApp Image 2024-10-03 at 19 07 14_df37dc2d](https://github.com/user-attachments/assets/fa7e4b4d-de19-4e4c-9614-b60da0ba2a05)
-
+<img src= "https://github.com/user-attachments/assets/e5d6a070-3f2a-4ec2-bb8a-f479c2409148" width="200">
+<img src = "https://github.com/user-attachments/assets/71107fd6-8719-483a-93a0-f92c2307de15" width = "200">
+<img src = "https://github.com/user-attachments/assets/3475c4d3-940d-4ca7-930c-afa63b386783" width = "200">
+<img src = "https://github.com/user-attachments/assets/69a25e55-03d9-48a4-a630-82d7807228ca" width = "200">
+<img src = "https://github.com/user-attachments/assets/d1905ae9-563b-412e-9f96-43520c844da2" width = "200">
+<img src = "https://github.com/user-attachments/assets/fa7e4b4d-de19-4e4c-9614-b60da0ba2a05" width = "200">
 
 https://github.com/user-attachments/assets/b38cd14f-4343-4a66-88c7-789cc6ad3a93
 
